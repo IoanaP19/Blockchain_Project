@@ -1,0 +1,24 @@
+[package]
+name = "decentralized-auction"
+version = "0.0.0"
+edition = "2024"
+publish = false
+authors = ["you"]
+
+[lib]
+path = "src/decentralized_auction.rs"
+
+[dependencies.multiversx-sc]
+version = "0.66.0"
+
+[dev-dependencies]
+num-bigint = "0.4"
+
+[dev-dependencies.multiversx-sc-scenario]
+version = "0.66.0"
+
+[workspace]
+members = [
+    ".",
+    "meta",
+]

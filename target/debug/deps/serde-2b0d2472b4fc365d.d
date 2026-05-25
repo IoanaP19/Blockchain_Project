@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Blockchain_Project\decentralized-auction\target\debug\deps\serde-2b0d2472b4fc365d.d: C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\acer\Desktop\Blockchain_Project\decentralized-auction\target\debug\build\serde-a508bb3001c872f6\out/private.rs
+
+C:\Users\acer\Desktop\Blockchain_Project\decentralized-auction\target\debug\deps\libserde-2b0d2472b4fc365d.rlib: C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\acer\Desktop\Blockchain_Project\decentralized-auction\target\debug\build\serde-a508bb3001c872f6\out/private.rs
+
+C:\Users\acer\Desktop\Blockchain_Project\decentralized-auction\target\debug\deps\libserde-2b0d2472b4fc365d.rmeta: C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\acer\Desktop\Blockchain_Project\decentralized-auction\target\debug\build\serde-a508bb3001c872f6\out/private.rs
+
+C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\acer\Desktop\Blockchain_Project\decentralized-auction\target\debug\build\serde-a508bb3001c872f6\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\acer\\Desktop\\Blockchain_Project\\decentralized-auction\\target\\debug\\build\\serde-a508bb3001c872f6\\out
