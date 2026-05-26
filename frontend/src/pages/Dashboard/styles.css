@@ -1,0 +1,251 @@
+.mx-sdk-sc-panel-mode {
+  display: none;
+}
+
+.mx-sdk-sc-panel-content-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.mx-sdk-sc-panel-content-wrapper-row {
+  display: flex;
+  align-items: center;
+}
+
+.mx-sdk-sc-panel-content-wrapper-row .mx-sdk-sc-panel-name{
+  width: 122px;
+  white-space: normal; 
+  overflow-wrap: break-word; 
+  word-break: break-word;
+  display: flex;
+  justify-content: flex-start;
+  text-align: end;
+  font-size: 14px;
+  margin-top: 10px;
+  color: black;
+}
+
+.mx-sdk-sc-card .mx-sdk-sc-card-header-title {
+  display: none;
+}
+
+.mx-sdk-sc-card-header-collapse-icon {
+  display: none;
+}
+
+.mx-sdk-sc-tooltip-icon {
+  display: none;
+}
+
+div.mx-sdk-sc-field {
+  display: none;
+}
+
+.mx-sdk-sc-contract-endpoints {
+  position: relative;
+}
+
+.mx-sdk-sc-contract-endpoint-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.mx-sdk-sc-code {
+  background-color: #F3F4F6 !important;
+  color: black !important;
+  border-radius: 12px;
+}
+
+.mx-sdk-sc-endpoint-output-results-title{
+  display: none;
+}
+
+.mx-sdk-sc-code-block{
+  position: relative;
+}
+
+.mx-sdk-sc-button-holder{
+  position: absolute;
+  top: 4px;
+  right: 8px;
+}
+
+.modal-content {
+  background-color: white;
+  border-radius: 12px;
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  padding: 16px 8px;
+}
+
+.mx-sdk-sc-modal-header {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mx-sdk-sc-interaction-modal-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mx-sdk-sc-form-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 1px solid #9CA3AF;
+  border-radius: 12px;
+  width: 540px;
+  margin: 24px auto;
+  padding: 16px 8px;
+}
+
+.mx-sdk-sc-interaction-modal-form .mx-sdk-sc-form-panel svg {
+  color: #ffc107;
+}
+
+.mx-sdk-sc-form-warning-address {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  color:#4B5563;
+  max-width: 200px;
+}
+
+.mx-sdk-sc-form-warning {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.mx-sdk-sc-form-warning > svg {
+  color: #ffc107;
+}
+
+.mx-sdk-sc-transaction-panel .mx-sdk-sc-form-panel button {
+  margin-left: 0 !important;
+}
+
+.mx-sdk-sc-transaction-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mx-sdk-sc-transaction-panel .mx-sdk-sc-form-panel {
+  border: 0;
+}
+
+.mx-sdk-sc-form-panel-text{
+  margin-top: 10px;
+}
+
+.mx-sdk-sc-interaction-modal-form-fields {
+  display: flex;
+  flex-direction: column;
+  width: 540px;
+  margin: 24px auto;
+}
+
+.mx-sdk-sc-interaction-modal-form button {
+  margin-left: 0;
+}
+
+.mx-sdk-sc-form-panel-icon-warn {
+  color: #ffc107;
+}
+
+.mx-sdk-sc-interaction-form-button {
+  margin: 0 auto;
+}
+
+.mx-sdk-sc-interaction-form-fields {
+  margin: 24px 5px;
+}
+
+#gasLimit {
+  background-color: #F3F4F6;
+  border: 1px solid #D1D5DB;
+  border-radius: 12px;
+}
+
+.mx-sdk-sc-input-group{
+  position: relative;
+}
+
+.mx-sdk-sc-input-group-append-icon{
+  position: absolute;
+  top: 7px;
+  right: 14px;
+}
+
+.mx-sdk-sc-label {
+  color: #9CA3AF;
+  font-size: 12px;
+}
+
+.mx-sdk-sc-badge {
+  display: none !important;
+}
+
+.modal-content {
+  display: block !important;
+}
+
+.mx-sdk-sc-collapsible-card {
+  display: block !important;
+}
+
+.dapp-core-component__amountSelect-module__amount, .mx-sdk-sc-amount-select-input-group {
+  margin-top: 20px;
+}
+
+.dapp-core-component__amountSelect-module__wrapper, .mx-sdk-sc-amount-select-input-wrapper {
+  padding: 12px 0px !important;
+  border: 1px solid #D1D5DB !important;
+}
+
+.dapp-core-component__tokenBalance-module__balance,
+.dapp-core-component__globals-module__label {
+  font-size: 12px !important;
+}
+
+.dapp-core-component__dappModalStyles__dappModalBody {
+  display: none;
+}
+
+.dapp-core-component__dappModalStyles__dappModalContent {
+  display: none;
+}
+
+:root {
+  --dapp-form-input-bg: #F3F4F6 !important;
+  --dapp-form-input-color: black!important;
+  --dapp-form-bg: #D1D5DB !important;
+  --dapp-form-select-input-color: black !important;
+  --dapp-form-select-input-color-hover: #4B5563 !important;
+  --dapp-form-select-option-bg:#D1D5DB !important;
+  --dapp-form-select-option-bg-selected:#9CA3AF !important;
+  --dapp-form-select-option-bg-hover:#9CA3AF !important;
+  --dapp-form-select-option-color:black !important;
+  --dapp-form-select-menu-border: #D1D5DB !important;
+  --dapp-form-select-icon-border: #D1D5DB !important;
+  --dapp-form-select-indicator-fill: black !important;
+  --dapp-form-select-indicator-fill-hover: #4B5563 !important;
+  --dapp-form-label-color: #9CA3AF !important;
+  --dapp-form-max-btn-color: black !important;
+  --dapp-form-max-btn-bg: white !important;
+}
